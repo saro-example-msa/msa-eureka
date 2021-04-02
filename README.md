@@ -1,1 +1,1 @@
-# msa-zuul-eureka
+# msa-eureka
